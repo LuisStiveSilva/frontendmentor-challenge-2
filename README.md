@@ -32,8 +32,8 @@ Mobile
 
 ### Links
 
-- [Solution URL](https://github.com/MalditoStive/frontendmentor-challenge-2)
-- [Live Site URL](https://malditostive.github.io/frontendmentor-challenge-2/)
+- [Solution URL](https://github.com/LuisStiveSilva/frontendmentor-challenge-2)
+- [Live Site URL](https://luisstivesilva.github.io/frontendmentor-challenge-2/)
 
 ## My process
 
